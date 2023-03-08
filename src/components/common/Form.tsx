@@ -92,8 +92,8 @@ const Form = ({
             <FormControl sx={{ flex: 1 }}>
               <FormHelperText sx={{
                 fontWeight:500,
-                margin:'10px 0',
                 fontSize:16,
+                margin:'10px 0',
                 color:"#11142d"
               }}>
 Select property type
